@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.gatech.seclass.sdpvocabquiz.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/dashboard_tv"
+            style="@style/register_style"
+            android:text="@string/dashboard_tv"/>
+
+        <Button
+            android:id="@+id/create_quiz_button"
+            style="@style/username_style"
+            android:text="@string/create_quiz_button" />
+
+        <Button
+            android:id="@+id/take_quiz_button"
+            style="@style/username_style"
+            android:text="@string/take_quiz_button" />
+
+        <Button
+            android:id="@+id/remove_quiz_button"
+            style="@style/username_style"
+            android:text="@string/remove_quiz_button" />
+
+        <Button
+            android:id="@+id/view_stats_button"
+            style="@style/username_style"
+            android:text="@string/view_stats_button" />
+    </LinearLayout>
+
+</RelativeLayout>

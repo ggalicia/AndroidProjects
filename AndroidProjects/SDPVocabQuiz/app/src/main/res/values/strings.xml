@@ -1,0 +1,115 @@
+<resources>
+
+    <!-- Category name for application name [CHAR LIMIT=20] -->
+    <string name="app_name">SDPVocabQuiz</string>
+
+    <string name="view_stats">View Stats</string>
+
+    <string name="select_quiz">Select Quiz</string>
+
+    <string name="quiz_stats">Quiz Stats</string>
+
+    <string name="new_quiz_name">Quiz Name</string>
+    <string name="new_quiz_description">Description</string>
+    <string name="new_quiz_word">Add Word</string>
+    <string name="new_quiz_submit">Save Quiz</string>
+    <string name="new_quiz_cancel">Cancel</string>
+    <string name="new_quiz_length">Length</string>
+
+    <string name="new_word">Word</string>
+    <string name="new_word_correct">Correct Definition</string>
+    <string name="new_word_incorrect">Incorrect Definition</string>
+    <string name="new_word_save_word">Save Word</string>
+    <string name="new_word_discard_word">Discard Word</string>
+
+
+    <string name="quiz_stats_first_quiz_name">Quiz Name</string>
+    <string name="quiz_stats_first_user">Username</string>
+    <string name="quiz_stats_first_score">Quiz Score</string>
+    <string name="quiz_stats_first_datetime">Date &amp; Time</string>
+
+    <string name="quiz_stats_highest_user">Username</string>
+    <string name="quiz_stats_highest_score">Score</string>
+    <string name="quiz_stats_highest_datetime">Date &amp; Time</string>
+
+    <string name="quiz_stats_top_1">Top 1</string>
+    <string name="quiz_stats_top_2">Top 2</string>
+    <string name="quiz_stats_top_3">Top 3</string>
+
+
+    <string name="quiz_question">Word</string>
+    <string name="quiz_answer_a">AAAA</string>
+    <string name="quiz_answer_b">BBBB</string>
+    <string name="quiz_answer_c">CCCC</string>
+    <string name="quiz_answer_d">DDDD</string>
+
+    <string name="quiz_results">Quiz Results</string>
+    <string name="quiz_results_name">Quiz Name</string>
+    <string name="quiz_results_score">Quiz Score</string>
+    <string name="quiz_results_date">Quiz Date</string>
+    <string name="quiz_result_back_button">Back to Dashboard</string>
+
+    <!-- Category name for application name TextView [CHAR LIMIT=20] -->
+    <string name="application_name_tv">SDPVocabQuiz</string>
+
+    <!-- Category name for username EditText -->
+    <string name="username_et">Enter username</string>
+
+    <!-- Category name for register Button -->
+    <string name="register_button">Register</string>
+
+    <!-- Category name for register Button -->
+    <string name="login_button">Log In</string>
+
+    <!-- Category name for register TextView -->
+    <string name="register_tv">Register</string>
+
+    <!-- Category name for major EditText -->
+    <string name="major_et">Enter Major</string>
+
+    <!-- Category name for Seniority EditText -->
+    <string name="seniority_et">Enter Seniority</string>
+
+    <!-- Category name for email EditText -->
+    <string name="email_et">Enter E-mail</string>
+
+    <!-- Category name for dashboard TextView -->
+    <string name="dashboard_tv">Dashboard</string>
+
+    <!-- Category name for create quiz Button -->
+    <string name="create_quiz_button">Create Quiz</string>
+
+    <!-- Category name for take quiz Button -->
+    <string name="take_quiz_button">Take Quiz</string>
+
+    <!-- Category name for take quiz Button -->
+    <string name="remove_quiz_button">Remove Quiz</string>
+
+    <!-- Category name for take quiz Button -->
+    <string name="view_stats_button">View Stats</string>
+
+    <!-- Category name for view stats TextView -->
+    <string name="view_stats_tv">View Stats</string>
+
+    <!-- Category name for quiz 0 TextView -->
+    <string name="quiz_0_tv">Quiz 0</string>
+
+    <!-- Category name for quiz 1 TextView -->
+    <string name="quiz_1_tv">Quiz 1</string>
+
+    <!-- Category name for quiz 2 TextView -->
+    <string name="quiz_2_tv">Quiz 2</string>
+
+    <!-- Category name for quiz 3 TextView -->
+    <string name="quiz_3_tv">Quiz 3</string>
+    <string name="new_quiz_word_count">Current number of words:</string>
+
+    <string-array name="seniority_array">
+        <item>Freshman</item>
+        <item>Sophmore</item>
+        <item>Junior</item>
+        <item>Senior</item>
+        <item>Graduate</item>
+    </string-array>
+
+</resources>

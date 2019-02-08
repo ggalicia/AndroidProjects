@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">LaSalle</string>
+
+    <!-- header text for the title -->
+    <string name="title">Centro de Formación Integral LaSalle</string>
+
+    <!-- header text for the intro message -->
+    <string name="intro_message">El centro LaSalle es una institución gratuita en la que se aprende a valorar
+        al ser humano y se les enseña a ser mejores personas.  </string>
+
+    <!-- header text for the business name -->
+    <string name="business_name">LaSalle Tijuana</string>
+
+    <!-- header text for the business information -->
+    <string name="business_info_1">Callejón Quintana Roo 1733</string>
+
+    <!-- header text for the business information -->
+    <string name="business_info_2">Zona Centro, 22000 Tijuana, B.C.</string>
+
+    <!-- header text for the business information -->
+    <string name="business_info_3">TEL. 684-0289 • www.lasalletijuana.com </string>
+
+</resources>

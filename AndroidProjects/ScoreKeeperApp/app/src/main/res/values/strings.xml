@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Score Keeper App</string>
+    <string name="action_settings">Settings</string>
+
+    <!-- header text for the title -->
+    <string name="archer_A">Archer A</string>
+
+    <!-- header text for the title -->
+    <string name="archer_B">Archer B</string>
+
+    <!-- header text for the title -->
+    <string name="number_0">0</string>
+
+    <!-- header text for the title -->
+    <string name="yellow_ring">yellow ring</string>
+
+</resources>

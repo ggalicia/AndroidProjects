@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#FFFFFF"
+    tools:context=".MainActivity">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/title"
+            style="@style/title"
+            android:text="@string/title" />
+
+        <ImageView
+            android:id="@+id/logo"
+            style="@style/logo"
+            android:src="@drawable/lasalle" />
+
+        <TextView
+            android:id="@+id/intro_message"
+            style="@style/intro_message"
+            android:layout_below="@id/logo"
+            android:text="@string/intro_message" />
+
+        <TextView
+            android:id="@+id/business_name"
+            style="@style/businessinfo_style"
+            android:layout_below="@id/intro_message"
+            android:text="@string/business_name" />
+
+        <TextView
+            android:id="@+id/business_info_1"
+            style="@style/businessinfo_style"
+            android:layout_below="@id/business_name"
+            android:text="@string/business_info_1" />
+
+        <TextView
+            android:id="@+id/business_info_2"
+            style="@style/businessinfo_style"
+            android:layout_below="@id/business_info_1"
+            android:text="@string/business_info_2" />
+
+        <TextView
+            android:id="@+id/business_info_3"
+            style="@style/businessinfo2_style"
+            android:layout_below="@id/business_info_2"
+            android:text="@string/business_info_3" />
+
+    </RelativeLayout>
+
+</ScrollView>

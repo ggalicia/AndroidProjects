@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="edu.gatech.seclass.sdpvocabquiz.MainActivity">
+
+    <LinearLayout
+        android:id="@+id/linear_layout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/application_name_tv"
+            style="@style/application_name_style"
+            android:text="@string/application_name_tv"/>
+
+        <EditText
+            android:id="@+id/username_et"
+            style="@style/username_style"
+            android:hint="@string/username_et"
+            android:inputType="text" />
+
+    </LinearLayout>
+
+    <Button
+        android:id="@+id/register_button"
+        style="@style/register_button"
+        android:text="@string/register_button" />
+
+    <!-- tag for reset button android:onClick="register"
+         may not be needed-->
+
+    <Button
+        android:id="@+id/login_button"
+        style="@style/login_button"
+        android:text="@string/login_button" />
+
+    <!-- tag for reset button android:onClick="Log In"
+         may not be needed-->
+
+</RelativeLayout>

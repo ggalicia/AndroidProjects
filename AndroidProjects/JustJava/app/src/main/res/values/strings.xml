@@ -1,0 +1,58 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+
+    <!-- header text for application name [CHAR LIMIT=20] -->
+    <string name="app_name">Just Java</string>
+
+    <!-- header text for the editText input [CHAR LIMIT=20] -->
+    <string name="name">Name</string>
+
+    <!-- header text for the list of toppings [CHAR LIMIT=20] -->
+    <string name="toppings">Toppings</string>
+
+    <!-- text for the Whipped Cream option [CHAR LIMIT=20] -->
+    <string name="whipped_cream">Whipped Cream</string>
+
+    <!-- text for the Chocolate option [CHAR LIMIT=20] -->
+    <string name="chocolate">Chocolate</string>
+
+    <!-- header text for  Quantity  [CHAR LIMIT=20] -->
+    <string name="quantity">Quantity</string>
+
+    <!-- header text for the Order Summary  [CHAR LIMIT=20] -->
+    <string name="order_summary">Order Summary</string>
+
+    <!-- text for the Order Button  [CHAR LIMIT=20] -->
+    <string name="order_button">Order</string>
+
+    <!-- text for the customer name. Do not translate customer name.  [CHAR LIMIT=None] -->
+    <string name="customer_name">Name: <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+    <!-- text for the whipped cream option  [CHAR LIMIT=None] -->
+    <string name="add_whipped_cream">Add whipped cream? <xliff:g id="addWhippedCream" example="true">%s</xliff:g></string>
+
+    <!-- text for the chocolate option  [CHAR LIMIT=None] -->
+    <string name="add_chocolate">Add chocolate? <xliff:g id="addChocolate" example="true">%s</xliff:g></string>
+
+    <string name="yes">Yes</string>
+
+    <string name="no">No</string>
+
+    <!-- text for  quantity   [CHAR LIMIT=None] -->
+    <string name="order_quantity">Quantity: <xliff:g id="quantity" example="2">%d</xliff:g></string>
+
+    <!-- text for  order total   [CHAR LIMIT=None] -->
+    <string name="order_price">Total: <xliff:g id="price" example="$10">%s</xliff:g></string>
+
+    <!-- Thank you message for the order summary. [CHAR LIMIT=NONE] -->
+    <string name="thank_you">Thank you!</string>
+
+    <!-- E-mail Subject. [CHAR LIMIT-NONE] -->
+    <string name="order_email_subject">Just Java order for <xliff:g id="name" example="Amy">%s</xliff:g></string>
+
+    <!-- Message displayed when the customer tries to request more than 100 coffees -->
+    <string name="too_many_coffees">You cannot have more than 100 coffees.</string>
+
+    <!-- Message displayed when the customer tries to request less than 1 coffee -->
+    <string name="too_few_coffees">You cannot have less than 1 coffee.</string>
+
+</resources>

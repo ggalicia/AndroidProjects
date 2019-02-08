@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Fleepd App</string>
+
+    <!-- header text for the title -->
+    <string name="title">Computer Literacy Self-Assessment</string>
+
+    <!-- header text for the intro message -->
+    <string name="intro_message">Whether you are new to computers, use them everyday
+    or only use them in your social life, this quiz will help you assess your basic
+    computer skills. </string>
+
+    <!-- header text for the title -->
+    <string name="scroll_text">Please scroll down to start the quiz.</string>
+
+    <!--question#1-->
+    <string name="question_1">1. What is a computer?</string>
+    <string name="question_1_a">a. an electronic device that receives data(input), processes data, stores data and produces a result(output)</string>
+    <string name="question_1_b">b. an electronic device that receives information(input), stores data and produces a lot of data(output)</string>
+    <string name="question_1_c">c. an electronic device that processes data(input), receives data and stores a result (output)</string>
+    <string name="question_1_d">d. an electronic device that stores, produces and receives information</string>
+
+    <!--question#2-->
+    <string name="question_2">2. A computer consists of two main components: </string>
+    <string name="question_2_a">a. CPU and Microsoft Word</string>
+    <string name="question_2_b">b. Hardware and Software</string>
+    <string name="question_2_c">c. Internet Keyboard </string>
+    <string name="question_2_d">d. Facebook and WhatsApp</string>
+    <string name="question_2_e">e. Youtube and Google</string>
+
+    <!--question#3-->
+    <string name="question_3">3. True or False: Hardware is any part of your computer that has a physical structure.</string>
+    <string name="question_3_true">a. True</string>
+    <string name="question_3_false">b. False</string>
+
+    <!--question#4-->
+    <string name="question_4">4. Which of the following is considered computer hardware? (Check all that apply)</string>
+    <string name="question_4_a">Mouse, Google and Headphones</string>
+    <string name="question_4_b">Keyboard, Mouse and Hard Drive</string>
+    <string name="question_4_c">Facebook, Yahoo and Hotmail</string>
+    <string name="question_4_d">Monitor, CPU and Motherboard</string>
+    <string name="question_4_e">None of the above</string>
+
+    <!--question#5-->
+    <string name="question_5">5. What is the computer term which refers to the initial screen showing icons for folders,
+        files, and applications in a computer.</string>
+
+    <!--question#6-->
+    <string name="question_6">6. What is software?</string>
+    <string name="question_6_a">a. A financial system to help small business do math operation</string>
+    <string name="question_6_b">b. An audio streaming service from the 1930s</string>
+    <string name="question_6_c">c. A set of instructions or programs instructing a computer to do specific tasks </string>
+    <string name="question_6_d">d. A video game that came up in the 1980s</string>
+    <string name="question_6_e">e. All of the above</string>
+
+    <!--question#7-->
+    <string name="question_7">7.What are the two main types of computer software? </string>
+    <string name="question_7_a">a. System Software and Application Software</string>
+    <string name="question_7_b">b. Microsoft Word and Windows XP</string>
+    <string name="question_7_c">c. Google and Youtube</string>
+    <string name="question_7_d">d. Facebook and WhatsApp</string>
+    <string name="question_7_e">e. None of the above</string>
+
+    <!-- Submit Button -->
+    <string name="submit_button">Submit</string>
+
+    <!-- Submit Button -->
+    <string name="reset">Reset</string>
+
+</resources>
